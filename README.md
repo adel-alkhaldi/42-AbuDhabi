@@ -18,3 +18,7 @@ C03–C05: Advanced strings, recursion, math functions
 C06–C07: Command-line args & dynamic memory (Malloc)
 
 C08: Structs & header files (Too Advanced, You Don't Need it Yet..)
+
+
+If you find any mistakes, or which to contact me
+https://www.linkedin.com/in/adel-alkhaldi/
